@@ -1,4 +1,4 @@
-# Your Basic Card!
+# Your Simple Card!
 
 ## Our Goal
 
@@ -21,4 +21,4 @@ Imagine every time you wanted to give someone your contact details or your busin
 * How to read and use Flutter Documentation
 
 
-### * Love, Dima Odintsov
+##### Love, Dima Odintsov
