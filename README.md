@@ -1,8 +1,8 @@
 # Your Simple Card!
 
-## Our Goal
+## My Goal
 
-To see how to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
+My goal is for you to see how to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
 
 ## What you will create
 
