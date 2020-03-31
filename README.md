@@ -2,11 +2,12 @@
 
 ## Our Goal
 
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
+To see how to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
 
 ## What you will create
 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
+YourSimpleCard a personal business/portfolio card.
+Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
 ## What you will learn
 
@@ -20,6 +21,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to read and use Flutter Documentation
 
 
-
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+*** Love, Dima Odintsov ***
