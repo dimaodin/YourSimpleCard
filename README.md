@@ -2,7 +2,7 @@
 
 ## My Goal
 
-My goal is for you to see how to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
+My goal is give you the knowledge to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
 
 ## What you will create
 
@@ -19,6 +19,14 @@ Imagine every time you wanted to give someone your contact details or your busin
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
+
+## The APP
+
+![Image description](https://i.imgur.com/m2mY9wy.png) 
+
+## Installation
+
+Clone this repo.
 
 
 ##### Love, Dima Odintsov
