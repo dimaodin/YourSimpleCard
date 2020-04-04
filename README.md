@@ -11,7 +11,7 @@ Imagine every time you wanted to give someone your contact details or your busin
 
 ## Screenshots
 
-![Image description](https://i.imgur.com/m2mY9wy.png) 
+![Image description](https://i.imgur.com/GOYzIbj.png) 
 
 ## Installation
 
