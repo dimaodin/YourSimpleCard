@@ -32,7 +32,7 @@ class MyCard extends StatelessWidget {
               ),
               CircleAvatar(
                 radius: 70.0,
-                backgroundImage: AssetImage('images/dima.jpg'),
+                backgroundImage: AssetImage('images/dima.png'),
               ),
               Text(
                 'Dima Odintsov',
