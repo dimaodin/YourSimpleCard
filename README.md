@@ -24,13 +24,13 @@ My goal is give you the knowledge to create a Flutter app entirely from scratch,
 At the root of the Project run:
 
 ```
-$> git clone https://github.com/dimaodin/easybudget.git
+$> git clone https://github.com/dimaodin/yoursimplecard.git
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git clone git@github.com:dimaodin/easybudget.git
+$> git clone git@github.com:dimaodin/yoursimplecard.git
 ```
 
 **Install dependencies**
