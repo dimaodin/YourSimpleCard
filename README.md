@@ -5,25 +5,65 @@
 > Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you.
 > Well, now you can get them to download your business card as an app.
 
-## My Goal
+<br>
+
+## 🥅 My Goal
 
 My goal is give you the knowledge to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
 
-## Screenshots
+<br>
+
+## 🚀 Preview
 
 ![Image description](https://i.imgur.com/m2mY9wy.png) 
 
-## Installation
-At the root of the project run
+<br>
+
+## :construction_worker: Installation
+
+At the root of the Project run:
+
+```
+$> git clone https://github.com/dimaodin/easybudget.git
+```
+
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
+
+```
+$> git clone git@github.com:dimaodin/easybudget.git
+```
+
+**Install dependencies**
+
 ```
 $> flutter install
 ```
->  aka the needed dependencies.
 
-## Commands
-To Run the project
+**Start development server**
+
 ```
 $> flutter run
 ```
 
-##### Love, Dima Odintsov ❤️
+<br>
+
+## :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the [YourSimpleCard](https://github.com/dimaodin/YourSimpleCard/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/dimaodin/YourSimpleCard/blob/master/CONTRIBUTING.md) to find out about the coding standards.
+
+<br>
+
+## :tada: Contributing
+
+Check out the [contributing](https://github.com/dimaodin/YourSimpleCard/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
+<br>
+
+## :closed_book: License
+
+Released in 2020,
+This project is under the [MIT license](https://github.com/dimaodin/YourSimpleCard/blob/master/LICENSE).
+
+<br>
+
+##### Made with love by [Dima Odintsov](https://github.com/DimaOdin) 💜🚀
